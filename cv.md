@@ -21,3 +21,6 @@
 >
 6. Stressmanagment 2015
 7. Graduated from the Institute of Entrepreneurship with a degree in economics manager 
+8. Language:
+    * Russian nativ
+    * English lvl B2
