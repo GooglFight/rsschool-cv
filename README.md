@@ -1,1 +1,1 @@
-# rsschool-cv
+https://googlfight.github.io/rsschool-cv/cv
