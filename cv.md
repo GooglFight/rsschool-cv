@@ -17,4 +17,5 @@ Stressmanagment 2015
 Graduated from the Institute of Entrepreneurship with a degree in economics manager
 Language:
 Russian nativ
+Belarus nativ
 English lvl B2
