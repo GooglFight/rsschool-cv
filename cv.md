@@ -6,7 +6,7 @@ email: artyom.litvinov@me.com
 discord: GooglFight#6561
 30 years. He graduated from the institute with a useless specialty as an economist manager. The last two years of work leaves much to be desired, I decided that I needed to do something about it and signed up for the rs scchool course. I know it will be hard, but the one who never tries is not mistaken.
 Skills:
-VS
+VScode
 Git
 Photoshop
 Jira
