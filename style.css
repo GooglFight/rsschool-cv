@@ -1,0 +1,101 @@
+body{
+    
+    width: 800px;
+    height: 100%;
+    font-size: 25px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 0px 0px 30px #b9b9b9;
+}
+.main{
+    background-color: rgb(238, 238, 238);
+}
+
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #64a0c2;
+    padding: 10px;
+}
+.header-nav a{
+    color: black;
+}
+.aboutme {
+    max-width: 850px;
+    margin: 0 auto;   
+ 
+}
+.container_about{
+    display: flex;
+}
+.aboutme__photografy {
+    margin: 10px 10px 10px 0;
+    width: 2000px;
+    box-shadow: 0px 0px 60px #b9b9b9;
+  
+}
+h1{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+h2{
+    font-size:40px;
+    font-weight: bold;
+    
+}
+.aboutme__text p{
+    font-size: 25px;
+    
+}
+
+.row{
+  background-color: #64a0c25d;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+}
+.table{
+    width: 200px;
+    margin: 10px;
+}
+.table a{
+    color: black;
+}
+
+.contacts-logo{
+    height: 40px;
+    
+}
+.project p{
+    margin: 10px;
+}
+.examples__item{
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 2px;
+    background-color: rgb(214, 209, 203);
+}
+.education p{
+    margin: 10px;
+}
+.footer{
+  display: flex;
+  bottom: 0;
+  justify-content: space-around;
+  padding: 10px;
+  background-color: #64a0c2;
+ 
+}
+.footer img{
+    height: 40px;
+}
+.footer p{
+    font-size: 30px;
+    font-weight: bold;
+}
