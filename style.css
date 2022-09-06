@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth
+}
 body{
     
     width: 800px;
@@ -21,9 +24,15 @@ body{
     background-color: #64a0c2;
     padding: 10px;
 }
+
 .header-nav a{
     color: black;
 }
+.header-nav a:hover{
+    color: rgb(117, 6, 6);
+    transition: all 0.2s;
+}
+
 .aboutme {
     max-width: 850px;
     margin: 0 auto;   
@@ -42,6 +51,7 @@ h1{
     font-size: 45px;
     font-weight: bold;
     margin-bottom: 50px;
+    text-shadow: 1px 1px 2px rgb(61, 60, 60)
 }
 h2{
     font-size:40px;
